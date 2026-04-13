@@ -6,7 +6,6 @@ fp-info-cache
 *.lck
 
 # Output files (optional - ignore if you want others to generate their own)
-bom/
 report.txt
 *.xml
 
