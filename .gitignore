@@ -4,8 +4,10 @@
 fp-info-cache
 *.bak
 *.lck
+_autosave-*
+~*
 
-# Output files (optional - ignore if you want others to generate their own)
+# Output files
 report.txt
 *.xml
 
